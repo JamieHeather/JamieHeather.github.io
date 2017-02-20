@@ -6,7 +6,7 @@ img: tcr_review.png
 alt: image-alt
 project-date: Jan 2017
 authorship: First
-category: Bioinformatics \| Review
+category: Bioinformatics | Review
 description: TCR review etc etc
 
 ---
