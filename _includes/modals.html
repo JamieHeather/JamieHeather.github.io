@@ -15,19 +15,38 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/publications/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+
+                            <ul class="list-inline item-details">
+                                <li>DOI:
+                                    <strong>{{ post.doi }}
+                                    </strong>
+                                </li>
+
+                                <li>Journal:
+                                    <strong>{{ post.journal }}
+                                    </strong>
+                                </li>
+                                
+                                <li>Date:
+                                    <strong>{{ post.project-date }}
+                                    </strong>
+                                </li>
+                            </ul>
+                            <p>
                             
                             <ul class="list-inline item-details">
                                 <li>Authorship:
                                     <strong>{{ post.authorship }}
                                     </strong>
                                 </li>
-                                <p>
-                                <li>Date:
-                                    <strong>{{ post.project-date }}
+
+                                <li>Article type:
+                                    <strong>{{ post.article}}
                                     </strong>
                                 </li>
-                                <li>Field:
-                                    <strong>{{ post.category }}
+                                
+                                <li>Topic:
+                                    <strong>{{ post.topic }}
                                     </strong>
                                 </li>
                             </ul>
