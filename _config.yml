@@ -24,10 +24,10 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: ad42f4 #18bc9c #80B3FF
+  primary-rgb: "173, 66, 244" # "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary-dark: 233140 #A2122Fs
 
 # Footer settings
 footer:
@@ -38,6 +38,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: google
+    url: http://scholar.google.com/citations?user=YS8gO1MAAAAJ&hl=en
   - title: twitter
     url: http://twitter.com/jamimmunology
   - title: github
