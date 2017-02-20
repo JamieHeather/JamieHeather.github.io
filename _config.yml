@@ -1,8 +1,8 @@
 # Site settings
 title: James M. Heather
-email: your-email@domain.com
+email: jheather@mgh.harvard.edu
 url: https://JamieHeather.github.io
-description: "TESSSSSSSSSSSST ESCRIIIIIIIIIIPTION."
+description: "Publication details of the immunology/molecular biology/bioinformatics research scientist James M. Heather."
 skills: "Immunology - Molecular Biology - Bioinformatics"
 meta_author: Heather James
 
@@ -31,31 +31,28 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Jamie Heather
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Writing
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/jamimmunology
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/jamieheather
+  - title: reddit
+    url: http://reddit.com/u/jamimmunology
 
+    
 # Postal address (add as many lines as necessary)
 address:
   - line: MA, USA
   #- line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'I occasional write (largely technical) blog pieces <a href="http://jamimmunology.blogspot.com">here</a>, and contribute to the UK-based <a href="http://www.bionews.org.uk/jamesheather">BioNews newsletter</a>.'
 
 # Build settings
 markdown: kramdown
