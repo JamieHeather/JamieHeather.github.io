@@ -6,7 +6,7 @@ img: flower.png
 alt: image-alt
 project-date: October 2011
 journal: PLoS ONE
-doi: <a href="http://dx.doi.org/10.1371/journal.pone.0025922">10.1371/journal.pone.0025922</a
+doi: <a href="http://dx.doi.org/10.1371/journal.pone.0025922">10.1371/journal.pone.0025922</a>
 authorship: Mid
 article: Research
 topic: Molecular biology | Bioinformatics | EBV
