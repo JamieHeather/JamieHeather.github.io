@@ -6,7 +6,7 @@ img: egr1.png
 alt: image-alt
 project-date: February 2009
 journal: Journal of General Virology
-doi: <a href="http://dx.doi.org/10.1099/vir.0.007922-0">10.1099/vir.0.007922-0</a
+doi: <a href="http://dx.doi.org/10.1099/vir.0.007922-0">10.1099/vir.0.007922-0</a>
 authorship: First
 article: Research
 topic: Molecular biology | EBV
