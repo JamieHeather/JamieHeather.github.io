@@ -54,7 +54,7 @@ social:
     
 # Postal address (add as many lines as necessary)
 address:
-  - line: MA, USA
+  #- line: MA, USA
   #- line: Beverly Hills, CA 90210
 
 # Credits content
