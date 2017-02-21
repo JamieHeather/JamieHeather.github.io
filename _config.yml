@@ -1,10 +1,10 @@
 # Site settings
 title: James M. Heather
-email: jheather@mgh.harvard.edu
+email: james.m.heather+git@gmail.com
 url: https://JamieHeather.github.io
-description: "Publication details of the immunology/molecular biology/bioinformatics research scientist James M. Heather."
+description: "Publication details of the immunology/molecular biology/bioinformatics research scientist James (Jamie) M. Heather."
 skills: "Immunology - Molecular Biology - Bioinformatics"
-meta_author: Heather James
+meta_author: Heather Jamie
 
 # Google webmaster tools
 google_verify:
@@ -16,7 +16,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
