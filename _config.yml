@@ -40,16 +40,21 @@ footer:
 social:
   - title: google
     url: http://scholar.google.com/citations?user=YS8gO1MAAAAJ&hl=en
-  - title: twitter
-    url: http://twitter.com/jamimmunology
+  - title: circle-o
+    url : http://orcid.org/0000-0002-1783-5181
+  - title: facebook
+    url: https://figshare.com/authors/James_M_Heather/412058
   - title: github
     url: http://github.com/jamieheather
+  - title: linkedin
+    url: https://www.linkedin.com/in/james-heather-71079629/
+  - title: twitter
+    url: http://twitter.com/jamimmunology
   - title: facebook
     url: https://figshare.com/authors/James_M_Heather/412058
   - title: reddit
     url: http://reddit.com/u/jamimmunology
-  - title: circle-o
-    url : http://orcid.org/0000-0002-1783-5181
+
 
     
 # Postal address (add as many lines as necessary)
@@ -58,7 +63,7 @@ address:
   #- line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'I occasional write (largely technical) blog pieces <a href="http://jamimmunology.blogspot.com">here</a>, and contribute to the UK-based <a href="http://www.bionews.org.uk/jamesheather">BioNews newsletter</a>.'
+credits: 'I occasionally write (mostly technical) blog pieces <a href="http://jamimmunology.blogspot.com">here</a>, and contribute to the UK-based <a href="http://www.bionews.org.uk/jamesheather">BioNews newsletter</a>.'
 
 # Build settings
 markdown: kramdown
