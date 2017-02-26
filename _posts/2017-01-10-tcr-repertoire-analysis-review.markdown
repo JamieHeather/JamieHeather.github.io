@@ -10,5 +10,5 @@ doi: <a href="http://dx.doi.org/10.1093/bib/bbw138">10.1093/bib/bbw138</a>
 authorship: First
 article: Review
 topic: TCR repertoires | Bioinformatics
-description: TEXT
+description: <a href="https://github.com/JamieHeather/JamieHeather.github.io/raw/master/_pdfs/">Download pdf</a><p>
 ---

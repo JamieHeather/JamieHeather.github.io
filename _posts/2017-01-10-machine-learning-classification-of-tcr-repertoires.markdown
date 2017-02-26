@@ -10,5 +10,5 @@ doi: <a href="http://dx.doi.org/10.1093/bioinformatics/btw771">10.1093/bioinform
 authorship: Mid
 article: Research
 topic: TCR repertoires | Machine learning
-description: TEXT
+description: <a href="https://github.com/JamieHeather/JamieHeather.github.io/raw/master/_pdfs/">Download pdf</a><p>
 ---

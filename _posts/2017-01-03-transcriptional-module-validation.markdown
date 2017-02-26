@@ -10,5 +10,5 @@ doi: <a href="http://dx.doi.org/10.1371/journal.pone.0169271">10.1371/journal.po
 authorship: Mid
 article: Research
 topic: Bioinformatics | Transcriptomics 
-description: TEXT
+description: <a href="https://github.com/JamieHeather/JamieHeather.github.io/raw/master/_pdfs/">Download pdf</a><p>
 ---
