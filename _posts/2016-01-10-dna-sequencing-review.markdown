@@ -10,5 +10,5 @@ doi: <a href="http://dx.doi.org/10.1016/j.ygeno.2015.11.003">10.1016/j.ygeno.201
 authorship: First
 article: Review
 topic: DNA sequencing
-description: <a href="https://github.com/JamieHeather/JamieHeather.github.io/raw/master/_pdfs/Heather_2015_Genom_DNA_Sequencers.pdf">Download pdf</a><p>
+description: This was my <i>first</i> first author paper to come of my PhD at UCL.<p>This paper is very simply a review of the history of DNA sequencing, a brief look back in a field whose literature tends to just look forward to the next exciting thing, which I hope will be of particular use to students new to the field. In it I use the largely-agreed upon definitions of the first three generations of DNA sequencing technology, and highlight some of the key researchers, methodologies and machines of each. 
 ---
