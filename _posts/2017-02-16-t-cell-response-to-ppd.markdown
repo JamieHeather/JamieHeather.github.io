@@ -10,5 +10,5 @@ doi: <a href="http://dx.doi.org/10.3389/fimmu.2017.00162">10.3389/fimmu.2017.001
 authorship: Mid
 article: Research
 topic: TCR sequencing | Contact sensitizers 
-description: <a href="https://github.com/JamieHeather/JamieHeather.github.io/raw/master/_pdfs/">Download pdf</a><p>
+description: <a href="https://github.com/JamieHeather/JamieHeather.github.io/raw/master/_pdfs/Oakes_2017_PPD_TCR_Repertoires.pdf">Download pdf</a><p>
 ---
