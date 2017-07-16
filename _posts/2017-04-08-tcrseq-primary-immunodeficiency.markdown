@@ -2,7 +2,7 @@
 layout: default
 modal-id: 13
 date: 2017-04-08
-img: sun.png
+img: immunodeficiency.png
 alt: image-alt
 project-date: April 2017
 journal: Journal of Autoimmunity
