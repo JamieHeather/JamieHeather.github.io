@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: NUMBER
+modal-id: 16
 date: 2018-11-05
-img: .png
-alt: cord-reconstitutionimage-alt
+img: cord-reconstitution.png
+alt: image-alt
 project-date: November 2018
 journal: 
 doi: <a href="http://dx.doi.org/10.3389/fimmu.2018.02547">10.3389/fimmu.2018.02547</a>
