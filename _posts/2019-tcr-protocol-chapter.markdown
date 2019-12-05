@@ -10,5 +10,5 @@ doi: <a href="http://dx.doi.org/10.1007/978-1-4939-8885-3_2">10.1007/978-1-4939-
 authorship: Mid
 article: Chapter
 topic: TCR sequencing
-description: <a href="https://github.com/JamieHeather/JamieHeather.github.io/raw/master/_pdfs/Uddin_2019_CancImmSurv_TCR_protocol_update.pdf">Download pdf</a><p>TEXT
+description: <a href="https://github.com/JamieHeather/JamieHeather.github.io/raw/master/_pdfs/Uddin_2019_CancImmSurv_TCR_protocol_update.pdf">Download pdf</a><p>
 ---

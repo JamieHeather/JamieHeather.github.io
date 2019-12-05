@@ -52,7 +52,7 @@ social:
     url: http://twitter.com/jamimmunology
   - title: reddit
     url: http://reddit.com/u/jamimmunology
-  - title: book-reader
+  - title: book-open
     url: https://publons.com/researcher/1240708/james-heather/
   - title: flask
     url: https://www.thingiverse.com/jamimmunology/designs
@@ -60,7 +60,7 @@ social:
 
     
 # Postal address (add as many lines as necessary)
-address:
+address: 'I also design 3D printable labware, and encourage labs to make use of this technology for cheap and customisable products. The STL files are avaialble for download from <a href="https://www.thingiverse.com/jamimmunology/designs">Thingiverse here</a>'
   #- line: MA, USA
   #- line: Beverly Hills, CA 90210
 
