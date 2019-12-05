@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Jamie Heather
-  location: Location
+  location: 3D printing
   social: Around the Web
   credits: Writing
 
@@ -47,11 +47,15 @@ social:
   - title: github
     url: http://github.com/jamieheather
   - title: linkedin
-    url: https://www.linkedin.com/in/james-heather-71079629/
+    url: https://www.linkedin.com/in/jamie-heather
   - title: twitter
     url: http://twitter.com/jamimmunology
   - title: reddit
     url: http://reddit.com/u/jamimmunology
+  - title: book-reader
+    url: https://publons.com/researcher/1240708/james-heather/
+  - title: flask
+    url: https://www.thingiverse.com/jamimmunology/designs
 
 
     
