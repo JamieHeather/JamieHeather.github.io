@@ -60,9 +60,9 @@ social:
 
     
 # Postal address (add as many lines as necessary)
-address: 'I also design 3D printable labware, and encourage labs to make use of this technology for cheap and customisable products. The STL files are avaialble for download from <a href="https://www.thingiverse.com/jamimmunology/designs">Thingiverse here</a>'
-  #- line: MA, USA
-  #- line: Beverly Hills, CA 90210
+address: 
+  - line: I also design 3D printable labware, and encourage labs to make use of this technology for cheap and customisable products. 
+  - line: The STL files are avaialble for download from <a href="https://www.thingiverse.com/jamimmunology/designs">Thingiverse here</a>
 
 # Credits content
 credits: 'I occasionally write (mostly technical) blog pieces <a href="http://jamimmunology.blogspot.com">here</a>, and contribute to the UK-based <a href="http://www.bionews.org.uk/jamesheather">BioNews newsletter</a>.'
